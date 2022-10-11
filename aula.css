@@ -1,0 +1,18 @@
+main p{
+	background: lightpink;
+}
+main h1{
+	background: lightpink;
+}
+
+img{
+	width: 25%;
+	height: 25%;
+	opacity: 0.8;
+	box-shadow: 5px 5px 5px #3F3F3F;
+}
+
+.pagina1{
+	width: 75%;
+	box-shadow: 15px 15px 5px #4F4F4F;
+}
